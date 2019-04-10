@@ -1,0 +1,71 @@
+{
+"categorias": [
+    {
+      "id": 1,
+      "titulo": "Terror",
+      "filmes" : [
+        {
+          "id":1,
+          "titulo":"It A Coisa",
+          "imagem": "https://static.quizur.com/i/b/59c1de9da2e844.59283833Capa.jpg"
+        },
+        {
+          "id":2,
+          "titulo":"Anabelle",
+          "imagem": "https://www.nerdssauros.com.br/wp-content/uploads/2018/10/Capa-3-1480x650.jpg"
+        },
+        {
+          "id":3,
+          "titulo":"Sobrenatural",
+          "imagem": "https://i.ytimg.com/vi/WLl3RrjCkrQ/maxresdefault.jpg"
+        },
+        {
+          "id":4,
+          "titulo":"O massacre da Serra Eletrica",
+          "imagem": "https://i0.wp.com/www.jornalcitytour.com.br/wp-content/uploads/2016/04/jct.Leatherface-capa.jpg?fit=650%2C366"
+        },
+        {
+          "id":5,
+          "titulo":"Invocação do Mal 2",
+          "imagem": "https://i0.wp.com/portalsobretudo.com/wp-content/uploads/2016/06/Invoca%C3%A7%C3%A3o-do-Mal-2-Foto-de-Capa.jpg"
+        },
+        {
+          "id":6,
+          "titulo":"Mama",
+          "imagem": "http://3.bp.blogspot.com/-E3AX1z6U2FM/UxBNYINVDvI/AAAAAAAAe-I/4TSElF3E7oE/s1600/mama-2013-movie-wallpaper.jpg"
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "titulo": "Comédia",
+        "filmes" : [
+          {
+            "id":1,
+            "titulo":"Esposa de Mentirinha",
+            "imagem": "http://www.tvmagazine.com.br/imagens/programas/filme_esposadementirinha01.jpg"
+          },
+          {
+            "id":2,
+            "titulo":"American Pie",
+            "imagem": "https://i.ytimg.com/vi/FygmDJDtSLs/maxresdefault.jpg"
+          },
+          {
+            "id":3,
+            "titulo":"Debi e Loide",
+            "imagem": "https://www.depoisdasessao.com.br/wp-content/uploads/2015/11/rapidinha-debi-loide-2-comentarios-650x400.jpg"
+          },
+          {
+            "id":4,
+            "titulo":"Inatividade Paranormal",
+            "imagem": "https://image.tmdb.org/t/p/w1280/kGqBnKcTHEyvIzARazZhyamK5Sv.jpg"
+          },
+          {
+            "id":5,
+            "titulo":"Todo mundo em pânico",
+            "imagem": "https://img.ibxk.com.br/2015/07/30/30162230388038.jpg?w=1040"
+          }
+        ]
+      }
+  ]
+}
